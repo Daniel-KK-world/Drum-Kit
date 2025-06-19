@@ -1,1 +1,1 @@
-Drum kit made with js
+Drum kit made with Java Script
